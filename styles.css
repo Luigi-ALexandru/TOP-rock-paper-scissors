@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+    padding: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 50px;
+}
+
+.but {
+    font-size: 20px;
+    margin: 0 auto;
+    display: block;
+}
+
+.score-container {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-weight: bold;
+}
